@@ -21,6 +21,10 @@ We mark works contributed by ourselves with ⭐.
 
 #### 2024
 
+- `[2024 Arxiv]` **Robust Noisy Correspondence Learning via Self-Drop and Dual-Weight**  
+*Fan Liu, Chenwei Dong, Chuanyi Zhang, Hualiang Zhou, Jun Zhou*    
+[[paper]](https://arxiv.org/pdf/2412.06172)
+
 - `[2024 Arxiv]` **Disentangled Noisy Correspondence Learning**  
 *Zhuohang Dang, Minnan Luo, Jihong Wang, Chengyou Jia, Haochen Han, Herun Wan, Guang Dai, Xiaojun Chang, Jingdong Wang*    
 [[paper]](https://arxiv.org/pdf/2408.05503)
